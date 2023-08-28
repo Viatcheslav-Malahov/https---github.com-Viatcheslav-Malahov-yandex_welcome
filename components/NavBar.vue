@@ -24,6 +24,8 @@
           <li><NuxtLink to="/">Главная</NuxtLink></li>
           <li><NuxtLink to="/selfy">Фото</NuxtLink></li>
           <li><NuxtLink to="/about">Обо мне</NuxtLink></li>
+          <li><NuxtLink to="/repo">Репозиторий</NuxtLink></li>
+          <li><NuxtLink to="/game">Игра</NuxtLink></li>
         </ul>
       </div>
 
@@ -81,9 +83,11 @@
         </span>
 
         <ul class="divide-y font-sans">
-          <li><NuxtLink  class="my-4 inline-block" to="/">Главная</NuxtLink></li>
+          <li><NuxtLink class="my-4 inline-block" to="/">Главная</NuxtLink></li>
           <li><NuxtLink class="my-4 inline-block" to="/selfy">Фото</NuxtLink></li>
           <li><NuxtLink class="my-4 inline-block" to="/about">Обо мне</NuxtLink></li>              
+          <li><NuxtLink class="my-4 inline-block" to="/repo">Репозиторий</NuxtLink></li>              
+          <li><NuxtLink class="my-4 inline-block" to="/game">Игра</NuxtLink></li>              
         </ul>
 
         <div class="follow">
