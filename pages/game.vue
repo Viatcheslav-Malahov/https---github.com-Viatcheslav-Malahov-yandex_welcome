@@ -11,13 +11,13 @@
         <NuxtImg
           id="dino"
           class="dino"
-          src="../public/images/dino.png"
+          src="./../public/images/dino.png"
           alt="dino"
         />
         <NuxtImg
           id="cactus"
           class="cactus"
-          src="../public/images/cactus.png"
+          src="./../public/images/cactus.png"
           alt="cactus"
         />
       </main>
